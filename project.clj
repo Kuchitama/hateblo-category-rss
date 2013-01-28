@@ -5,4 +5,5 @@
 				 [enlive "1.0.1"]
 				 [clj-http "0.5.7"]
 				 [noir "1.3.0-beta3"]]
+			:min-lein-version "2.0.0"
             :main kuchitama.hateblo-category-rss.server)

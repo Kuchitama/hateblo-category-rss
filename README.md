@@ -11,9 +11,13 @@ lein deps
 lein run
 ```
 
+And you access to `http://localhost:8080/rss/clojure`
+
+You can get RSS of [Kuchitama technote]("http://kuchitama.hateblo.jp") which contains only entry belongs "clojure" category.
+
 ## License
 
-Copyright (C) 2011 FIXME
+Copyright (C) 2013 Kuchitama 
 
 Distributed under the Eclipse Public License, the same as Clojure.
 
